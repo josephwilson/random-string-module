@@ -1,0 +1,24 @@
+{
+  "name": "joeys-random-string-module",
+  "version": "0.1.0",
+  "description": "A module that returns random alphanumberic strings. ",
+  "main": "exports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephwilson/random-string-module.git"
+  },
+  "keywords": [
+    "random",
+    "alphanumeric",
+    "string"
+  ],
+  "author": "Joseph A. Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josephwilson/random-string-module/issues"
+  },
+  "homepage": "https://github.com/josephwilson/random-string-module#readme"
+}
